@@ -638,6 +638,11 @@ h4 {
   
   color: #333 !important;
 }
+
+q{
+  color:#000;
+}
+
 .icons {
   margin-bottom: 14px;
   margin-top: 24px;
@@ -690,7 +695,7 @@ h4 {
   color: #ccc !important;
 }
 .ltc-atomic-tangerine {
-  color: #f3976c !important;
+  color: #000 !important;
 }
 .ltc-atomic-tangerine:hover {
   color: #c27956 !important;
