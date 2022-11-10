@@ -929,6 +929,8 @@ q {
 
   .social {
     max-width: 400px;
+    min-height:48px;
+    min-width:48px;
     margin: auto auto auto auto;
     display: flex;
     justify-content: center;
